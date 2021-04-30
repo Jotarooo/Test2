@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Test2</string>
+    <string name="title_activity_forme">FormeActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="title_activity_nombre">NombreActivity</string>
+    <string name="numera">Button</string>
+    <string name="sheeeeesh">SHEEEEESH</string>
+    <string name="button1">Button</string>
+    <string name="button2">Button</string>
+    <string name="button3">Button</string>
+    <string name="button4">Button</string>
+    <string name="button5">Button</string>
 </resources>
