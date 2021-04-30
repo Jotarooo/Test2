@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         this.play = findViewById(R.id.button3);
         play.setOnClickListener(view -> {
             Intent otheractivity = new Intent (getApplicationContext(),NombreActivity.class);
